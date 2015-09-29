@@ -7,7 +7,7 @@
     var notes = [];
     var nevernoteBasePath = 'https://nevernote-1150.herokuapp.com/api/v1/';
     var user = {
-      apiKey: '$2a$10$3UAODMts8D3bK8uqwe2mF.F39vZD3/CypYXLUk1yvhpedfbMiBaFW'
+      apiKey: '$2a$10$2UEzCTV.OWhA/6wOXOCvCOyJ/jmWXFJI6CJACR/nNhPaRzftrfCT2'
     }
 
     this.fetchNotes = function(callback) {
